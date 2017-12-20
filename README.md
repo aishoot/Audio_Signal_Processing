@@ -3,7 +3,7 @@ Speech or audio signal processing guide by drawing.
 
 ### File Description
 * 01-Introduction: The introduction of this study project
-* 02-
+* 02-DFT: The Discrete Fourier Transform
 
 
 ### Learning websites
