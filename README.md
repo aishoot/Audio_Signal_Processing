@@ -6,7 +6,7 @@ Speech or audio signal processing guide by drawing.
 * 02-
 
 
-### Reference
+### Learning websites
 * https://www.upf.edu/web/mtg/sms-tools
 * https://ccrma.stanford.edu/~jos/mdft/
 * https://github.com/MTG/sms-tools
