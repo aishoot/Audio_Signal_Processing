@@ -7,7 +7,7 @@ Speech or audio signal processing guide.
 
 
 ### Reference
-* 1. https://www.upf.edu/web/mtg/sms-tools
-* 2. https://ccrma.stanford.edu/~jos/mdft/
-* 3.https://github.com/MTG/sms-tools
-* 4.https://www.coursera.org/learn/audio-signal-processing
+* 01. https://www.upf.edu/web/mtg/sms-tools
+* 02. https://ccrma.stanford.edu/~jos/mdft/
+* 03. https://github.com/MTG/sms-tools
+* 04. https://www.coursera.org/learn/audio-signal-processing
