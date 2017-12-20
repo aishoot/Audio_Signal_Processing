@@ -1,5 +1,5 @@
 # AudioSignalProcessing
-Speech or audio signal processing guide.
+Speech or audio signal processing guide by drawing.
 
 ### File Description
 * 01-Introduction: The introduction of this study project
