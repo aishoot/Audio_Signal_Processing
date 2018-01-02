@@ -4,7 +4,7 @@ Speech or audio signal processing guide.
 ### File Description
 * 01-Introduction: The introduction of this study project.
 * 02-PythonLibs: Libraries for manipulating audio.
-  * audiolazy - Expressive Digital Signal Processing (DSP) package for Python.
+ * audiolazy - Expressive Digital Signal Processing (DSP) package for Python.
     * audioread - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
     * beets - A music library manager and MusicBrainz tagger.
     * dejavu - Audio fingerprinting and recognition.
