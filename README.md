@@ -15,6 +15,7 @@ Speech or audio signal processing guide.
   * [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
   * [mutagen](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
   * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Feature Extraction, Classification, Segmentation and Applications (Python2).
+  * [pyAudioAnalysis3](https://github.com/ksingla025/pyAudioAnalysis3): Python3 version of pyAudioAnalysis 
   * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
   * [pyechonest](https://github.com/echonest/pyechonest) - Python client for the Echo Nest API.
   * [talkbox](http://scikits.appspot.com/talkbox) - A Python library for speech/signal processing.
