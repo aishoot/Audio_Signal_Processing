@@ -22,7 +22,7 @@ Speech or audio signal processing guide.
   * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
  
 * 03-DFT: The Discrete Fourier Transform.
-...
+* ...
 
 ### Learning websites
 * https://www.upf.edu/web/mtg/sms-tools
