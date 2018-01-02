@@ -2,8 +2,9 @@
 Speech or audio signal processing guide.
 
 ### File Description
-* 01-Introduction: The introduction of this study project
-* 02-DFT: The Discrete Fourier Transform
+* 01-Introduction: The introduction of this study project.
+* 02-PythonLibs: Some Python libraries for audio processing.
+* 03-DFT: The Discrete Fourier Transform.
 
 
 ### Learning websites
