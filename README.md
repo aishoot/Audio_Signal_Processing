@@ -20,6 +20,7 @@ Speech or audio signal processing guide.
   * talkbox - A Python library for speech/signal processing.
   * TimeSide - Open web audio processing framework.
   * tinytag - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+ 
 * 03-DFT: The Discrete Fourier Transform.
 
 
