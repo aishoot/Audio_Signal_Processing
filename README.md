@@ -31,3 +31,6 @@ Speech or audio signal processing guide.
 * https://www.coursera.org/learn/audio-signal-processing
 * https://github.com/vinta/awesome-python
 * https://github.com/jobbole/awesome-python-cn (In Chinese)
+
+
+_More codes will be uploaded soon!_
