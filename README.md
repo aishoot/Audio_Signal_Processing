@@ -1,5 +1,6 @@
 # Audio Signal Processing
-Speech or audio signal processing guide.
+Speech or audio signal processing guide.<br><br>
+![](/audio.jpg)
 
 ### File Description
 * 01-Introduction: The introduction of this study project.
