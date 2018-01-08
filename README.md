@@ -31,7 +31,7 @@ Speech or audio signal processing guide.<br><br>
 * https://github.com/MTG/sms-tools
 * https://www.coursera.org/learn/audio-signal-processing
 * https://github.com/vinta/awesome-python
-* https://github.com/jobbole/awesome-python-cn *(In Chinese)*
+* https://github.com/jobbole/awesome-python-cn
 
 
 _More codes will be uploaded soon!_
