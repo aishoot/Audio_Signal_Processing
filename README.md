@@ -23,8 +23,8 @@ Speech or audio signal processing guide.<br><br>
   * [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
   * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
  
-* 03-DFT: The Discrete Fourier Transform.
-* 04-Detect: Check whether the audio is a wav file, whether it is a double channel, whether the sampling rate is 44.1KHz, and calculate all the audio time length.
+* 03-Detect: Check whether the audio is a wav file, whether it is a double channel, whether the sampling rate is 44.1KHz, and calculate all the audio time length.
+* 04-DFT: The Discrete Fourier Transform.
 
 ### Learning websites
 * https://www.upf.edu/web/mtg/sms-tools
