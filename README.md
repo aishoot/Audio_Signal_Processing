@@ -33,6 +33,7 @@ Speech or audio signal processing guide.<br><br>
 * https://www.coursera.org/learn/audio-signal-processing
 * https://github.com/vinta/awesome-python
 * https://github.com/jobbole/awesome-python-cn
+* [Sound in Python](http://bastibe.de/2013-11-27-audio-in-python.html)
 
 
 _More codes will be uploaded soon!_
