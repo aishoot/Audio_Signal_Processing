@@ -34,6 +34,8 @@ Speech or audio signal processing guide.<br><br>
 * https://github.com/vinta/awesome-python
 * https://github.com/jobbole/awesome-python-cn
 * [Sound in Python](http://bastibe.de/2013-11-27-audio-in-python.html)
+* [Realtime Audio Visualization in Python](https://www.swharden.com/wp/2016-07-19-realtime-audio-visualization-in-python/)
+* [Handle audio--pyaudio](https://blog.csdn.net/Marksinoberg/article/details/71577704)
 
 
 _More codes will be uploaded soon!_
