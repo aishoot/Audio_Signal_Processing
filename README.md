@@ -25,6 +25,7 @@ Speech or audio signal processing guide.<br><br>
  
 * 03-Detect: Check whether the audio is a wav file, whether it is a double channel, whether the sampling rate is 44.1KHz, and calculate all the audio time length.
 * 04-RealTimeProcessing: real time signal processing using pyAudio stream.
+* 05-GrimLim: Griffin-Lim algorithm implement using Librosa.
 
 ### Learning websites
 * https://www.upf.edu/web/mtg/sms-tools
@@ -36,6 +37,9 @@ Speech or audio signal processing guide.<br><br>
 * [Sound in Python](http://bastibe.de/2013-11-27-audio-in-python.html)
 * [Realtime Audio Visualization in Python](https://www.swharden.com/wp/2016-07-19-realtime-audio-visualization-in-python/)
 * [Handle audio--pyaudio](https://blog.csdn.net/Marksinoberg/article/details/71577704)
+* Griffin-Lim Algorithm
+  * [Build End-To-End TTS Tacotron: Griffin Lim](https://zhuanlan.zhihu.com/p/25002923?group_id=834556250229477376)
+  * [Explore Text-To-Speech](https://github.com/lifeiteng/Rabbit)
 
 
 _More code will be uploaded soon!_
