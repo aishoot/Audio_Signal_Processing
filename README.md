@@ -38,4 +38,4 @@ Speech or audio signal processing guide.<br><br>
 * [Handle audio--pyaudio](https://blog.csdn.net/Marksinoberg/article/details/71577704)
 
 
-_More codes will be uploaded soon!_
+_More code will be uploaded soon!_
