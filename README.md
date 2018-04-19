@@ -25,7 +25,7 @@ Speech or audio signal processing guide.<br><br>
  
 * 03-Detect: Check whether the audio is a wav file, whether it is a double channel, whether the sampling rate is 44.1KHz, and calculate all the audio time length.
 * 04-RealTimeProcessing: real time signal processing using pyAudio stream.
-* 05-GrimLim: Griffin-Lim algorithm implement using Librosa.
+* 05-GriffinLim: Griffin-Lim algorithm implement using Librosa.
 
 ### Learning websites
 * https://www.upf.edu/web/mtg/sms-tools
