@@ -4,7 +4,7 @@ Speech or audio signal processing guide.<br><br>
 
 ### File Description
 * 01-Introduction: The introduction of this study project.
-* 02-PythonLibs: Libraries for manipulating audio.
+* 02-PythonLibs: Libraries for manipulating audio. [Python for Scientific Audio](https://project-awesome.org/faroit/awesome-python-scientific-audio).
   * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
   * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
   * [beets](http://beets.io/) - A music library manager and MusicBrainz tagger.
@@ -22,6 +22,9 @@ Speech or audio signal processing guide.<br><br>
   * [talkbox](http://scikits.appspot.com/talkbox) - A Python library for speech/signal processing.
   * [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
   * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+  * [AudioPython](https://github.com/VetoProjects/AudioPython) - An audio module for Python that is included in VetoLC.
+  * [Python Audio Tools](http://audiotools.sourceforge.net/index.html)
+  * [python-acoustics](https://github.com/python-acoustics/python-acoustics) - A Python library aimed at acousticians.
  
 * 03-Detect: Check whether the audio is a wav file, whether it is a double channel, whether the sampling rate is 44.1KHz, and calculate all the audio time length.
 * 04-RealTimeProcessing: real time signal processing using pyAudio stream.
