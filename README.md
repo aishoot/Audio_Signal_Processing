@@ -30,7 +30,7 @@ Speech or audio signal processing guide.<br><br>
 * 04-RealTimeProcessing: real time signal processing using pyAudio stream.
 * 05-GriffinLim: Griffin-Lim algorithm that is used to estimate a signal implement using Librosa.
 
-### Learning websites
+### References
 * https://www.upf.edu/web/mtg/sms-tools
 * https://ccrma.stanford.edu/~jos/mdft/
 * https://github.com/MTG/sms-tools
