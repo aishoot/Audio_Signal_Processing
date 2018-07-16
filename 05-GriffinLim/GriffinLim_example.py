@@ -20,7 +20,7 @@ def griffin_lim(stftm_matrix, shape, min_iter=20, max_iter=50, delta=20):
             y_iter.append((y, i))
 
         stft_matrix = librosa.core.stft(y)  # stft_matrix:(1025,122), stftm_matrix:(1025,122)
-        stft_matrix = stftm_matrix * stft_matrix / np.abs(stft_matrix)  # np.array乘除为对应元素乘除
+        stft_matrix = stftm_matrix * (stft_matrix / np.abs(stft_matrix))  # np.array乘除为对应元素乘除
         y = librosa.core.istft(stft_matrix)  # (62208,)
 
     y_iter.append((y, max_iter))  # 当达到max_iter时添加
